@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"form",
+				"formValidate"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"coun",
+				"countstream"
+			],
+			[
+				"Teacher",
+				"Teacherview"
+			],
+			[
+				"add",
+				"Addstudentcontroller"
+			],
+			[
+				"student",
+				"studentForm"
+			],
+			[
+				"even",
+				"eventEmmiter"
+			],
+			[
+				"event",
+				"eventemitter"
+			],
+			[
+				"gl",
+				"glyphicon-user"
+			],
+			[
+				"gly",
+				"glyphicon"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/NITESH/Documents/NodeFolder/Flipkart/app.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Flipkart/routes/details.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Flipkart/routes/index.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/app.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/app2.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Flipkart/routes/users.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/routes/users.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/routes/index.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Ali/app.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/rootkey.csv",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/routes/details.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/buildURL.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/index.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/merchandising.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/utils.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/taxonomy-api.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/request.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/shopping.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/constants.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/src/buy-api.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/test/buildURL.test.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/test/findItemsByKeyword.test.js",
+		"/C/Users/NITESH/Documents/NodeFolder/eBay/ebay-node-api-master/test/index.test.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/package.json",
+		"/C/Users/NITESH/Documents/NodeFolder/Ali/package.json",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/app.js",
+		"/C/Users/NITESH/Documents/NodeFolder/AliExpress/app.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Amazon/credentials.csv",
+		"/C/Users/NITESH/Documents/NodeFolder/Snapdeal/routes/index.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Snapdeal/routes/details.js",
+		"/C/Users/NITESH/Documents/NodeFolder/todolist/index.js",
+		"/H/ /Naziya/yaccfile.txt",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q2.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/file1.txt",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q3.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q8.y",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q4.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q5.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q10.y",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q9.y",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q7.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/output.txt",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q10.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q9.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q8.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/lexandyaccprogram/Q6.l",
+		"/F/cmder/file.txt",
+		"/H/ /lex/Q10.l",
+		"/C/Users/NITESH/Desktop/myshell.c",
+		"/C/Users/NITESH/Desktop/FlexYACC/fwdflexcodes/ques1.l",
+		"/C/Users/NITESH/Desktop/IWTProject/ProductRatingWebsite.html",
+		"/C/Users/NITESH/Desktop/IWTProject/Vivo.html",
+		"/C/Users/NITESH/Desktop/IWTProject/HTC2.html",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/users.json",
+		"/C/Users/NITESH/Desktop/IWTProject/HTC.html",
+		"/C/Users/NITESH/Desktop/IWTProject/Samsung.html",
+		"/C/Users/NITESH/Desktop/IWTProject/Apple.html",
+		"/C/Users/NITESH/Desktop/IWTProject/OPPO.html",
+		"/C/Users/NITESH/Desktop/IWTProject/Redmi.html",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/JSONToHtml.html",
+		"/C/Users/NITESH/Documents/SummerPractice/Smart/ShwetaSingh.html",
+		"/C/Users/NITESH/Documents/PHP-MYSQL/Revoira2.php",
+		"/C/Users/NITESH/Desktop/IWTProject/Home.html",
+		"/C/Users/NITESH/Documents/PHP-MYSQL/home.html",
+		"/C/Users/NITESH/Documents/PHP-MYSQL/shoppingTask.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Demo2.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Question1.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Q1.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/FormFile.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Q3.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Demoq3.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Q2.html",
+		"/C/Users/NITESH/Desktop/IWT/q2.html",
+		"/C/Users/NITESH/Desktop/IWT/Question5.html",
+		"/C/Users/NITESH/Desktop/IWT/Q3.html",
+		"/C/Users/NITESH/Desktop/IWT/Demo/MSTbyPrimsAlgo.cpp",
+		"/C/Users/NITESH/Desktop/IWT/Demo/Breakfast.xml",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/update.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/MongodbCreateCollection.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/Server.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/Find.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/CreateDocuments.js",
+		"/C/Users/NITESH/Desktop/IWTProject/index1.html",
+		"/C/Users/NITESH/Desktop/FlexYACC/CountWordsCountCharCountLine.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/flexfile.txt",
+		"/C/Users/NITESH/Desktop/FlexYACC/Lexcode.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/CountNoOfWPractice1.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/EvaluateExp.y",
+		"/C/Users/NITESH/Desktop/FlexYACC/CountNoOfWords.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/EvaluateExp.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/characterIsCapitalSmall.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/ExpressionEvaluationPractice.y",
+		"/C/Users/NITESH/Desktop/FlexYACC/ExpressionEvaluationPractice.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/CountNoOfW.l",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/RestAPICRUD.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/Login.html",
+		"/C/Users/NITESH/Desktop/FlexYACC/EvaluateExpression.l",
+		"/C/Users/NITESH/Desktop/FlexYACC/CountNoOfWords.l.txt",
+		"/C/Users/NITESH/Desktop/paaa'.txt",
+		"/C/Users/NITESH/Desktop/New Text Document.txt",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/Style2.css",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/MongodbCreatedocuments.js",
+		"/C/Users/NITESH/Documents/NodeFolder/NodejsFolder/TableCreation.js",
+		"/C/Users/NITESH/Documents/NodeFolder/NodejsFolder/Mongodb1.js",
+		"/C/Users/NITESH/Documents/NodeFolder/NodejsFolder/MongodbCreateCollection.js",
+		"/C/Users/NITESH/Documents/NodeFolder/NodejsFolder/MongodbCreatedocuments.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/CreateCollection.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/JoinUsingLookup.js",
+		"/C/Users/NITESH/Documents/NodeFolder/OneHourNodePractice/Sort.js",
+		"/C/Users/NITESH/Mydiary/September23rd.txt",
+		"/C/Users/NITESH/Desktop/IWTProject/hoverDropdown.css",
+		"/C/Users/NITESH/Desktop/IWTProject/bestO1.jpg",
+		"/C/Users/NITESH/Desktop/IWTProject/SignUp.html",
+		"/C/Users/NITESH/Desktop/IWTProject/signup.html",
+		"/C/Users/NITESH/Documents/NodeFolder/Project/MainWebsite.html",
+		"/C/Users/NITESH/Documents/PHP-MYSQL/Shoppingtask2/ModifiedShopping.html",
+		"/C/Users/NITESH/Documents/WebApplication/GoogleMaps.html",
+		"/C/Users/NITESH/Documents/NodeFolder/Project/Login.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Project/Server.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Project/Login.html",
+		"/C/Users/NITESH/Documents/WebApplication/WeatherForcast.html",
+		"/C/Users/NITESH/Documents/NodeFolder/Express.js",
+		"/C/Users/NITESH/Documents/NodeFolder/Express/Express1.js",
+		"/C/Users/NITESH/Desktop/IWT/Q1.html",
+		"/C/Users/NITESH/Desktop/IWT/Q4.html",
+		"/C/Users/NITESH/Desktop/IWT/q2.css",
+		"/C/Users/NITESH/Desktop/IWT/GCLLab.html",
+		"/H/ /SystemP/numbers_3.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\NITESH\\Documents\\NodeFolder\\FormExpress.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

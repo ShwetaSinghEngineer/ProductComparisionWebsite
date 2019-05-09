@@ -1,0 +1,124 @@
+﻿<!Doctype html>
+<html>
+<head>
+<metacharset="utf-8">
+<title>Registration Form</title>
+<link rel="stylesheet" href="/stylesheets/s3.css">
+ <script>
+      function validateForm()
+  {
+      var x = document.getElementById("name").value;
+	  if(x=="")
+	  {
+	      document.getElementById("names").innerHTML="<span style='color:red '>**please enter your name</span>";
+		  return (false);
+	  }
+	   var x = document.getElementById("name").value;
+	   if(x.length < 5 || x.length > 15)
+	   {
+	      document.getElementById("names").innerHTML="<span style='color:red '>**charcters should be in limit</span>";
+		  return (false);
+	  }
+	   else if(!isNaN(x))
+	  
+	  {
+	      document.getElementById("names").innerHTML="<span style='color:red '>**name cant be numeric</span>";
+		  return (false);
+	  }
+	  var a = document.getElementById("unm").value;
+	  if(a=="")
+	  {
+	      document.getElementById("unms").innerHTML="<span style='color:red '>**please enter username</span>";
+		  return (false);
+	  }
+	   var a = document.getElementById("name").value;
+	   if(a.length < 5 || a.length > 15)
+	   {
+	      document.getElementById("unms").innerHTML="<span style='color:red '>**username should be in limit </span>";
+		  return (false);
+	  }
+	   
+	  var y = document.getElementById("em").value;
+	  if(y=="")
+	  {
+	      document.getElementById("ems").innerHTML="<span style='color:red '>**please enter eamil</span>";
+		  return (false);
+	  }
+	  if(y.indexOf("@")<1)
+	  {
+	      document.getElementById("ems").innerHTML="<span style='color:red '>**invalid email</span>";
+	      
+		  return (false);
+	  }
+	  if( y.charAt(y.length-4)!='.')
+	  {
+	      document.getElementById("ems").innerHTML="<span style='color:red '>**invalid emails</span>";
+	      
+		  return (false);
+	  }
+	  var z=document.getElementById("pass").value;
+	  if(z=="")
+	  {
+	      document.getElementById("passes").innerHTML="<span style='color:red '>**password is required</span>";
+		  return (false);
+	  }
+	  if(z.length < 5 )
+	   {
+	      document.getElementById("passes").innerHTML="<span style='color:red '>**password sholud be greater than 6</span>";
+		  return (false);
+		  }
+		  var a=document.getElementById("conpass").value;
+		   if(a=="")
+	  {
+	      document.getElementById("conpasses").innerHTML="<span style='color:red '>**confirm password is required</span>";
+		  return (false);
+	  }
+
+		  if(a!=z)
+	   {
+	      document.getElementById("conpasses").innerHTML="<span style='color:red '>**both password should be same</span>";
+		  return (false);
+		  }
+		 var b=document.getElementById("no").value; 
+      if(b==" ")
+	  {
+	      document.getElementById("nos").innerHTML="<span style='color:red '>**number cant be empty</span>";
+		  return (false);
+	  }	
+	  else if(isNaN(b))
+	  
+	  {
+	      document.getElementById("nos").innerHTML="<span style='color:red '>**number sholud be numeric</span>";
+		  return (false);
+	  }
+	   if(b.length!=10)
+	   {
+	      document.getElementById("nos").innerHTML="<span style='color:red '>**invalid number</span>";
+		  return (false);
+	  }
+    	  
+    }
+
+ </script>
+<head>
+<body>
+<div class="simple-form">
+<form  name="registration" action="/RegistrationDB.ejs" onsubmit="return validateForm()" method="get">
+<h1>REGISTRATION FORM</h1>
+<input type="text" name="fname" id="name" placeholder="First name" ><br><span id="names"></span><br>
+<br>
+<input type="text" name="username" id="unm" placeholder="User name" ><br><span id="unms"></span><br>
+<br>
+<input type="email" name="email" id="em" placeholder="Email Id" ><br><span id="ems"></span><br>
+<br>
+<input type="password" name="pwd" id="pass" placeholder="Password" ><br><span id="passes"></span><br>
+<br>
+<br>
+<input type="number" name="phone" placeholder="Mobile no." id="no" ><br><span id="nos"></span>
+<br><br>
+<input type="submit" value="Submit">
+
+</form>
+</div>
+</body>
+</html>

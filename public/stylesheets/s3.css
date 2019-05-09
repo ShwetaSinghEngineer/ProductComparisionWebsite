@@ -1,0 +1,54 @@
+﻿body{
+background-color: pink;
+background-repeat: no-repeat;
+background-size: 100% 700px;
+}
+.simple-form{
+text-align: center;
+margin: 100px 400px;
+}
+#registration {
+width: 100%;
+//background-image:url("bookbg1.jpg");
+opacity: 0.8;
+padding: 50px 0px;
+}
+form a{
+color:white;
+}
+p{
+font-weight: bold;
+color:white;
+}
+#button{
+width: 250px;
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+}
+#ph{
+outline: 0px;
+width: 67px;
+padding: 10px;
+border-radius: 5px;
+}
+#phone{
+width: 168px;
+padding: 2px;
+border-radius: 5px;
+outline: 0px;
+}
+/*#butt{
+width: 240px;
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+background-color: #0c6996;
+border: 2px solid #01010c;
+color: aliceblue;
+font-size: 10px;
+}
+button{
+margin-top:100px;
+margin-left:500px;
+}*/
